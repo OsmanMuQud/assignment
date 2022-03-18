@@ -1,7 +1,5 @@
 import Users from "./Users";
 
-const [Active, setActive] = useState(active);
-
 const Header = ({ children }) => {
   return (
     <section>
